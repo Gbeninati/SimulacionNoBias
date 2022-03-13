@@ -1,7 +1,7 @@
 {
 "companyName": "Armonic Ideas",
 "productName": "Simulación Performance Bias",
-"productVersion": "1.0",
+"productVersion": "2.0",
 "dataUrl": "Build.data.unityweb",
 "wasmCodeUrl": "Build.wasm.code.unityweb",
 "wasmFrameworkUrl": "Build.wasm.framework.unityweb",
